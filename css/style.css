@@ -1,0 +1,38 @@
+body{
+	font-family: "PT Sans", "Myriad Pro";
+}
+.main-header{
+	background-color: black;
+	color: white;
+	font-size: 14px;
+	margin-bottom: 28px;
+	margin-top: 28px;
+}
+.main-logo{
+	margin-left: 150px;
+	margin-right: 39px;
+}
+.visually-hidden{
+	display: none;
+}
+h3{
+	font-size: 24px;
+	font-weight: bold;
+}
+.feature-item{
+	color: white;
+}
+.news{
+	color: black;
+}
+h2{
+	font-weight: bold;
+	font-size: 23px;
+}
+time{
+	font-size: 10px;
+	font-weight: bold;
+}
+p{
+	font-size: 13px;
+}
